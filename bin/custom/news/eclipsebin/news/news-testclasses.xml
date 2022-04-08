@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><news><testclass>de.hybris.news.jalo.NewsTest</testclass><testclass>de.hybris.news.dao.iml.DefaultNewsDAOImplIntegrationTest</testclass><testclass>de.hybris.news.service.impl.DefaultNewsServiceIntegrationTest</testclass></news></testclasses>
